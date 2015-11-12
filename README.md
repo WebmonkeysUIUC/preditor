@@ -83,6 +83,14 @@ for creating HTML presentations. Some features envisioned are:
   However, it is proprietary, and probably uses its own HTML presentation framework instead of those
   mentioned above.
 
+## Contributing
+Please read through our [contributing guidelines](CONTRIBUTING.md). Included are directions for
+opening issues, setting up your development environment, opening pull requests, coding standards,
+and notes on development.
+
+## Contributors
+See [CREDITS.md](CREDITS.md).
+
 ## License
 Current &copy; 2015, Neelabh Gupta.
 
