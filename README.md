@@ -92,7 +92,4 @@ and notes on development.
 See [CREDITS.md](CREDITS.md).
 
 ## License
-Current &copy; 2015, Neelabh Gupta.
-
-The project will be licensed once some work is done on the project, after which
-the contributors can arrive on a consensus.
+See [LICENSE.md](LICENSE.md) for license and copyright information.
